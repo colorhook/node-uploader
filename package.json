@@ -1,6 +1,6 @@
 {
     "name": "node-uploader",
-    "version": "1.0",
+    "version": "1.0.0",
 	"description": "an uploader utility for Node",
     "keywords": ["uploader", "node-uploader", "file uploader", "http uploader"],
     "main": "lib/uploader.js",

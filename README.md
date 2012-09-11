@@ -36,7 +36,7 @@ uploader.upload({
 
 ## Licence
 
-ATT is free to use under MIT license. 
+`node-uploader` is free to use under MIT license. 
 
 ## Bugs & Feedback
 
