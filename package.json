@@ -1,0 +1,33 @@
+{
+    "name": "node-uploader",
+    "version": "1.0",
+	"description": "an uploader utility for Node",
+    "keywords": ["uploader", "node-uploader", "file uploader", "http uploader"],
+    "main": "lib/uploader.js",
+    "engines": {
+        "node" : ">=0.8.0"
+    },
+	"author": "colorhook <colorhook@gmail.com>",
+	"maintainers": [{
+      "name": "colorhook",
+      "email": "colorhook@gmail.com",
+      "url": "http://colorhook.com"
+    }],
+	"bugs": {
+        "email": "colorhook@gmail.com",
+        "url": "http://github.com/colorhook/node-uploader/issues"
+    },
+    "dependencies": {
+    },
+    "homepage": "https://github.com/colorhook/node-uploader",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/colorhook/node-uploader.git"
+    },
+	"licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/colorhook/node-uploader/blob/master/LICENSE"
+        }
+    ]
+}
